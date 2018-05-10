@@ -1,0 +1,10 @@
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\bin\Debug\VoteHost.exe.config
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\bin\Debug\VoteHost.exe
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\bin\Debug\VoteHost.pdb
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\bin\Debug\BusinessObjects.dll
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\bin\Debug\VoteITServiceLibrary.dll
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\bin\Debug\BusinessObjects.pdb
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\bin\Debug\VoteITServiceLibrary.pdb
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\obj\Debug\VoteHost.csprojResolveAssemblyReference.cache
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\obj\Debug\VoteHost.exe
+C:\Users\harsh\Documents\Visual Studio 2015\Projects\VoteITService\VoteHost\obj\Debug\VoteHost.pdb
